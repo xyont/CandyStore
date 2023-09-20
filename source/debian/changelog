@@ -1,0 +1,24 @@
+candystore (0.85-1ppa1~precise1ubuntu1) precise; urgency=low
+
+  * New upstream version
+
+ -- Oliver Borm <oli.borm@web.de>  Thu, 25 Oct 2012 20:07:54 +0200
+
+candystore (0.0.7-1~ppa2~lucid1) lucid; urgency=low
+
+  * New upstream release 
+
+ -- Patrick Prokopczuk <prokopczuk@gmx.de>  Mon, 17 May 2010 15:49:18 +0200
+
+candystore (0.0.5-1~ppa2~intrepid1) intrepid; urgency=low
+
+  * New upstream release
+
+ -- Oliver Borm <oli.borm@web.de>  Fri, 13 Feb 2009 16:33:21 +0100
+
+candystore (0.0.3-1~ppa1~intrepid1) intrepid; urgency=low
+
+  * Initial release 
+
+ -- Oliver Borm <oli.borm@web.de>  Fri, 21 Nov 2008 11:28:51 +0100
+
