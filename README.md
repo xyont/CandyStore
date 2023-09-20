@@ -6,6 +6,7 @@ Features :
 - Reading/Writing vtk files
 - STL import
 - Tet meshing (netgen library)
+- Export OpenFoam mesh
 - Pre/Postprocessing 
 
 Copyright : Oliver Borm <oli.borm@web.de> & Patrick Prokopczuk <prokopczuk@gmx.de> 2011 (GPL v.3)
